@@ -1,7 +1,6 @@
-#result1, #result2, #result3, #result4, #result4, #result5, #result6, #result7, #result8, #result9, #result10, #result11, #result12 {
+#result, #result1, #result2, #result3, #result4, #result4, #result5, #result6, #result7, #result8, #result9, #result10, #result11, #result12 {
   display: none;
 }
-
 
 body {
   margin: 10px;
@@ -10,10 +9,7 @@ body {
 
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+h3,{
 font-weight: 300;
     letter-spacing: 0.4px;
     font-family: "Open Sans", Sans-serif;
@@ -24,9 +20,35 @@ p {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
     font-weight: 300;
-	line-height: 23px;
+	  line-height: 23px;
     letter-spacing: 0.2px;
     color: #302300;
 }
 
-// inspired by lattes styles https://github.com/moozthemes/lattes/blob/master/css/style.css //
+.jumbotron {
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/cd/Central_Oregon_landscape.jpg);
+  background-size: cover;
+  color: white;
+  object-fit:
+}
+
+.btn {
+    background-color: #333300;
+    border: 2px solid #ccff66;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+#result1, #result2, #result3, #result4, #result4, #result5, #result6, #result7, #result8, #result9, #result10, #result11, #result12 {
+  margin: 6px;
+  border: 2px solid #333300;
+  padding: 40px;
+  background-color: #ccff66;
+}
+
+// some styles inspired by lattes styles https://github.com/moozthemes/lattes/blob/master/css/style.css //
