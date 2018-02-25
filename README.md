@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a simple HTML page styled with CSS, Bootstrap and using jQuery functions and branching._
+_This is a simple HTML page styled with CSS, Bootstrap and using jQuery functions and branching. The page is designed to gather information from the user and then to suggest outdoor activities based on their preferences._
 
 ## GitHub Link
 
