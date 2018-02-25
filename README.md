@@ -17,7 +17,7 @@ _https://github.com/tdoherty3/Oregon-vacation-quiz.git_
 * _Access and open / create an account at the GitHub site._
 * _Clone the project repository (see GitHub link above) to a directory on your local computer._
 * _Use a command line interface (such as terminal on Mac) and a source code editor such as Atom to access and view files._
-* _You may also access gh-pages to view [the webpage]()._
+* _You may also access gh-pages to view [https://tdoherty3.github.io/Oregon-vacation-quiz/]()._
 
 ## Known Bugs
 
